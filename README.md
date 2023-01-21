@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shs7777
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Python, R, Tableau, webscraping
-- 💞️ I’m looking to collaborate on projects in Python 
+- 👀 I’m interested in data analytics and data science
+- 🌱 I’m currently learning Python, R, Tableau, and other things
+- 💞️ I’m looking to collaborate on projects  
 
 
 <!---
